@@ -2,7 +2,7 @@
 
 Business cat for Hubot
 
-[![Build Status](https://travis-ci.org/cmckni3/hubot-business-cat.png)](https://travis-ci.org/cmckni3/hubot-business-cat)
+[![Build Status](https://travis-ci.org/cmckni3/hubot-business-cat.png)](https://travis-ci.org/cmckni3/hubot-business-cat.svg?branch=master)
 
 ## Directory Structure
 
@@ -24,4 +24,3 @@ This directory is home to the actual hubot scripts in the package. Your
 
 This directory is home to any tests you write for your scripts. This example
 package uses Mocha, Chai and Sinon to manage writing tests.
-
