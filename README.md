@@ -1,5 +1,7 @@
 # Hubot Business Cat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cmckni3/hubot-business-cat.svg)](https://greenkeeper.io/)
+
 Business cat for Hubot
 
 [![Build Status](https://travis-ci.org/cmckni3/hubot-business-cat.png)](https://travis-ci.org/cmckni3/hubot-business-cat.svg?branch=master)
