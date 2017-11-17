@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/cmckni3/hubot-business-cat/issues"
   },
-  "main": "index.coffee",
+  "main": "index.js",
   "scripts": {
     "test": "script/test"
   },
