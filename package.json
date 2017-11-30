@@ -21,7 +21,7 @@
     "test": "script/test"
   },
   "dependencies": {
-    "coffee-script": "~1.6.3"
+    "coffee-script": "~1.12.8"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
