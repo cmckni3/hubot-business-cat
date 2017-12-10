@@ -20,7 +20,7 @@ respectively.
 ### src
 
 This directory is home to the actual hubot scripts in the package. Your
-`index.coffee` entry point will load the scripts from this directory.
+`index.js` entry point will load the scripts from this directory.
 
 ### test
 
