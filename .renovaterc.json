@@ -4,5 +4,18 @@
     ":preserveSemverRanges",
     ":assignee(cmckni3)"
   ],
-  "semanticCommitType": "build"
+  "packageRules": [
+    {
+      "packagePatterns": [
+        "*"
+      ],
+      "semanticCommitType": "build"
+    },
+    {
+      "depTypeList": [
+        "dependencies"
+      ],
+      "semanticCommitType": "fix"
+    }
+  ]
 }
