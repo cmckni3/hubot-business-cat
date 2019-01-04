@@ -3,7 +3,5 @@
     "config:base",
     ":preserveSemverRanges"
   ],
-  "ignoreDeps": [
-    "sinon"
-  ]
+  "semanticCommitType": "build"
 }
