@@ -3,5 +3,5 @@
     "github>cmckni3/renovate-config",
     ":assignee(cmckni3)"
   ],
-   "labels": ["chore"]
+  "labels": ["chore"]
 }
